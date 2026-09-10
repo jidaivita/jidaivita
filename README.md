@@ -14,8 +14,8 @@ I am seeking **Ph.D. opportunities starting in 2027** and welcome collaborations
 
 ### Research Experience
 
-- **2026.03 – Present | Kuaishou, Commercialization Algorithms Department**  
-  Research Intern on Generative Recommendation  
+- **2026.03 – Present | Kuaishou, Commercialization Algorithms Department**<br>
+  Research Intern on Generative Recommendation<br>
   Mentor: [Peng Jiang](https://scholar.google.com/citations?user=9o5swhQAAAAJ&hl=en)
 
 ### Ecommerce & Business
@@ -49,4 +49,3 @@ arXiv preprint, 2026<br>
 ### Academic Services
 
 - **Journal Reviewer:** ACM Transactions on Information Systems (TOIS).
-
