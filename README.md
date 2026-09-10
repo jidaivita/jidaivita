@@ -6,7 +6,7 @@ I'm **Ji Dai**, a master's student at [Beijing University of Posts and Telecommu
 - 🌱 I'm interested in how learning systems discover structure in data, learn through interaction, and retain useful physical knowledge across tasks.
 - 📫 Feel free to contact me at [jidaivita@gmail.com](mailto:jidaivita@gmail.com).
 
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=l_1l4E4AAAAJ&hl=en)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=l_1l4E4AAAAJ&hl=en) · [OpenReview](https://openreview.net/profile?id=~Ji_Dai2) · [ORCID](https://orcid.org/0009-0006-6849-2138)
 
 ### Selected projects
 
