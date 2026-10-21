@@ -1,14 +1,14 @@
 # Ji Dai
 
-I am a master's student at Beijing University of Posts and Telecommunications (BUPT), advised by [Quan Fang](https://quanfang.github.io/) and [Jun Hu](https://cs-jhu.github.io/), and a research intern at Kuaishou working on generative recommendation.
+I am a master's student at Beijing University of Posts and Telecommunications (BUPT), advised by [Quan Fang](https://quanfang.github.io/) and [Jun Hu](https://cs-jhu.github.io/). In March 2026, I joined Kuaishou as a research intern working on generative recommendation.
 
 [Homepage](https://jidaivita.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=l_1l4E4AAAAJ&hl=en) · [Email](mailto:jidaivita@gmail.com)
 
 ## Research
 
-My interests are embodied world models, physical representation learning, and sim-to-real transfer. I study how models represent physical information, when that information is used in prediction and planning, and how these representations generalize to new environments.
+My interests are embodied world models, physical representation learning, and sim-to-real transfer (Sim2Real). I study how models represent physical information, when that information is used in prediction and planning, and how these representations generalize to new environments.
 
-My work in recommendation focuses on multimodal representations and generative recommendation.
+My recommendation research covers multimodal representations and generative retrieval.
 
 ## Projects
 
@@ -19,4 +19,4 @@ My work in recommendation focuses on multimodal representations and generative r
 | [CRANE](https://github.com/jidaivita/CRANE) | Cross-modal attention and dual graph learning for multimodal recommendation. |
 | [Awesome Generalizable World Models](https://github.com/jidaivita/awesome-generalizable-world-models) | Papers and reading guides on world-model representations, generalization, adaptation, and planning. |
 
-Publications and research experience are listed on my [homepage](https://jidaivita.github.io/#publications).
+See my homepage for [publications](https://jidaivita.github.io/#publications) and [research experience](https://jidaivita.github.io/#research-experience).
