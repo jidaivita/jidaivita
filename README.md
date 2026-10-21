@@ -1,5 +1,22 @@
 # Ji Dai
 
-Master's student at Beijing University of Posts and Telecommunications (BUPT) and research intern at Kuaishou.
+I am a master's student at Beijing University of Posts and Telecommunications (BUPT), advised by [Quan Fang](https://quanfang.github.io/) and [Jun Hu](https://cs-jhu.github.io/), and a research intern at Kuaishou working on generative recommendation.
 
-[Personal homepage](https://jidaivita.github.io/)
+[Homepage](https://jidaivita.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=l_1l4E4AAAAJ&hl=en) · [Email](mailto:jidaivita@gmail.com)
+
+## Research
+
+My interests are embodied world models, physical representation learning, and sim-to-real transfer. I study how models represent physical information, when that information is used in prediction and planning, and how these representations generalize to new environments.
+
+My work in recommendation focuses on multimodal representations and generative recommendation.
+
+## Projects
+
+| Project | Description |
+| --- | --- |
+| [SPRII](https://github.com/jidaivita/SPRII) | Learning persistent representations across independent interactions with the same system. |
+| [MAGNET](https://github.com/jidaivita/MAGNET) | Structured experts and entropy-triggered routing for multimodal recommendation. |
+| [CRANE](https://github.com/jidaivita/CRANE) | Cross-modal attention and dual graph learning for multimodal recommendation. |
+| [Awesome Generalizable World Models](https://github.com/jidaivita/awesome-generalizable-world-models) | Papers and reading guides on world-model representations, generalization, adaptation, and planning. |
+
+Publications and research experience are listed on my [homepage](https://jidaivita.github.io/#publications).
